@@ -17,10 +17,13 @@ public class Main
                     {
                         case 1 :
                             RGB();
+                            break;
                         case 2 :
                             Hex();
+                            break;
                         case 3 :
                             HTMLName();
+                            break;
                         default :
                             System.exit(0);//You lose the game... Go away.
                             break;
